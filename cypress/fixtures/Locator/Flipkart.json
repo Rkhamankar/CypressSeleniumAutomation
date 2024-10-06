@@ -1,0 +1,15 @@
+{
+    "mobTabCategory":"._1ch8e_[aria-label='Mobiles & Tablets']",
+    "searchField":".zDPmFV",
+    "searchIcon":".MJG8Up",
+    "mobilesSubCategory":".uWfXeF[title='Mobiles']",
+    "networkTypeFacet":".fxf7w6.rgHxCQ",
+    "networkTypeFacet2":"//div[contains(@class, 'fxf7w6 rgHxCQ') and text()='Network Type']",
+    "subFilter":"div._6i1qKy",
+    "fiveGType":"//div[contains(@class, '_6i1qKy') and text()='5G']",
+    "prodName":".KzDlHZ",
+    "clearAllFilter":".aOfogh",
+    "threeGBType":"//div[contains(@class, '_6i1qKy') and text()='3 GB']",
+    "fourGBType":"//div[contains(@class, '_6i1qKy') and text()='4 GB']"
+
+}
